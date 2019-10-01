@@ -66,6 +66,7 @@ namespace Menu
         public static void LoL()
         {
             Console.WriteLine("Aixo es el LoL");
+            Console.WriteLine("Actualitzacio Lol");
         }
 
         public static void Nostale()
