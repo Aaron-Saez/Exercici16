@@ -62,6 +62,7 @@ namespace Menu
         public static void Buscaminas()
         {
             Console.WriteLine("Aixo es el Buscaminas");
+	    Console.WriteLine("Actualització Buscaminas");
         }
 
         public static void LoL()
