@@ -72,6 +72,7 @@ namespace Menu
         public static void Nostale()
         {
             Console.WriteLine("Aixo es el Nostale");
+	    Console.WriteLine("Aquest joc sera una pasada");
         }
 
         public static void Metin2()
