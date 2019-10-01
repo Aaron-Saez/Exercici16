@@ -56,6 +56,7 @@ namespace Menu
         public static void Tetris()
         {
             Console.WriteLine("Aixo es el Tetris");
+            Console.WriteLine("Nous Colors Als Blocs");
         }
 
         public static void Buscaminas()
