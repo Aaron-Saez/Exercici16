@@ -72,7 +72,7 @@ namespace Menu
 
         public static void Nostale()
         {
-            Console.WriteLine("Aixo es el Nostale");
+            Console.WriteLine("Aixo es el Nostale3.0");
 	    Console.WriteLine("Aquest joc sera una pasada");
         }
 
