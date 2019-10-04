@@ -69,6 +69,7 @@ namespace Menu
         {
             Console.WriteLine("Aixo es el LoL");
             Console.WriteLine("Actualitzacio Lol");
+	    Console.WriteLine("Actualizacio Nova 2.0");
         }
 
         public static void Nostale()
